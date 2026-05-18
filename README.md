@@ -4,7 +4,7 @@
 
 # Moss: Create 24/7 AI Trading Agents in Natural Language
 
-> 🎉 **Moss** is an intelligent cryptocurrency quantitative trading bot factory and strategy tuner. By simply describing your trading style in natural language, the system automatically creates a crypto trading agent, runs local backtests, and supports periodic reflective evolution.
+> 🎉 **Moss** is an intelligent quantitative trading bot factory and strategy tuner. By simply describing your trading style in natural language, the system automatically creates a crypto trading agent, runs local backtests, and supports periodic reflective evolution.
 > <p align="center">
   <a href="https://github.com/moss-site/moss-trade-bot-skills/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/moss-site/moss-trade-bot-skills?color=green" alt="License"/>
